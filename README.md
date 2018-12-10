@@ -13,3 +13,5 @@ On va considérer quatre manières de représenter une image en couleur et donc 
 
 - Bazin, Loic, 39charctersMaximum
 - Bourbia, Aniss, 39charctersMaximum
+
+Impossible de setup le projet sur nos machines
